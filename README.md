@@ -40,7 +40,6 @@
 Introducing Project:
 
 - It was a fantastic experience to work with a subtle web page.
-- I have earned the knowledge of CSS markup. For once, I couldn't figure out how to set the #Role perfectly. Then, I have discovered the 'writing-mode: vertical-rl;' property.
 
 ### Built With
 
